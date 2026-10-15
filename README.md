@@ -1,6 +1,8 @@
 # Piston Fidget
 The Piston fidget I have created is a resin printed cylinder with a rotating base on some 6802 bearings. The piston 'cylinder' is a 12mm metal rod and it should slide into the cylinder and be able to float/spin using air pressure. It will feel like a high quality, premium fidget toy. Because it is 30mm in diameter and 110mm in height it is quite pocketable and about the size of a torch.
 
+<img width="928" height="687" alt="image" src="https://github.com/user-attachments/assets/64d9b731-b0c9-4004-a188-d957f5d00556" />
+
 ## Goal
 My goal for this project was to make something fun and interesting with CAD, I also wanted to use resin because I have never used it before.
 
