@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv5fkp920ik101n05jxk85ti). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A fidget toy which looks like a piston
+> The Piston fidget I have created is a resin printed cylinder with a rotating base on some 6802 bearings. The metal rod will slide smoothy to due to air pressure.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
