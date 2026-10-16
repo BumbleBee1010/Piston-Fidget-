@@ -27,4 +27,4 @@ The project is relatively simple, requiring the 3d printed enclosure, 6802zz bea
 <img width="878" height="339" alt="image" src="https://github.com/user-attachments/assets/f2b3d8b7-f77b-472a-b9ea-8c20a3d8c810" />
 
 
-*Please note that this is an independent project and is not affiliated with, sponsored by, or endorsed by Five Create Ltd (the creators of MetMo)
+*Please note that this is an independent project and is not affiliated with, sponsored by, or endorsed by Five Create Ltd (the creators of MetMo), it was just mentioned in a positive way.
