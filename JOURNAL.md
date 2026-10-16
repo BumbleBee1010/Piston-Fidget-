@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 9.25h | 4 |
+| Week 2 | Tier 1 | 9.5h | 4 |
 
 ## Contents
 
@@ -42,7 +42,7 @@ I added fillets and nice rounded edges to the model I also added a round cap to 
 
 ### 2026-10-15 – # Texture...
 
-**2.25h**
+**2.5h**
 
 # Texture...
 
