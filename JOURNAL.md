@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 9.5h | 4 |
+| Week 2 | Tier 1 | 9.75h | 4 |
 
 ## Contents
 
@@ -23,10 +23,10 @@
 
 ### 2026-10-15 – # Piston Fidget Start
 
-**3h**
+**3.25h**
 
 # Piston Fidget Start
-Once I thought of making a piston fidget (I had some other ideas before), I started to make the basic shape.
+Once I thought of making a piston fidget (I had some other ideas before), I started to make the basic shapes of the parts.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/def49e14e23d0afb4376e2a1523d2dcf8765548f29787f367a5551c2e8235da5.png)
 
@@ -36,9 +36,14 @@ I combined the two bodies an cut the intersect, I also made sure to add holes fo
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/37af226a03685f9fb43d0f4b89944e9b4134e4cd6fb6490b6e4ae17fb7824e5b.png)
 
 # Tidying up
-I added fillets and nice rounded edges to the model I also added a round cap to sit atop the metal rod which will slide up and down. I added a appearance to each of the bodies,  main part/body in black resin and the metal rod in chrome.
+I added fillets and nice rounded edges to the model I also added a round cap to sit atop the metal rod which will slide up and down.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/223794f7ed2e2d904188f15b955620c7622180c361d1092e32a1101ef7d343f1.png)
+
+# Thinking ahead
+ I added an appearance to each of the bodies, main part/body in probably resin and the metal rod in chrome.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/7145799b5e93583bb65a6c23278d1b680c4928c3d569263500e8bd79c31248e0.png)
 
 ### 2026-10-15 – # Texture...
 
