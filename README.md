@@ -4,7 +4,7 @@ The Piston fidget I have created is a resin printed cylinder with a rotating bas
 <img width="928" height="687" alt="image" src="https://github.com/user-attachments/assets/64d9b731-b0c9-4004-a188-d957f5d00556" />
 
 ## Goal
-My goal for this project was to make something fun and interesting with CAD, I also wanted to use resin because I have never used it before.
+My goal for this project was to make something fun and interesting with CAD, I also wanted to use resin because I have never used it before. I was inspired by other fidget toys on the market like MetMo*, this gave me motivation to make my own custom design.
 
 ## Design
 It can be resin printed, the base features wavy textured lines for a premium aesthetic and the top grip features concentric circles. You may notice, that the actual piston cylinder is plain, this is to keep a minimalistic feel and not make the overall thing look too busy.
@@ -25,3 +25,6 @@ When I did decide to do the texturing I encountered multiple problems, especiall
 The project is relatively simple, requiring the 3d printed enclosure, 6802zz bearings and a 12mm metal rod (> 77.5mm). It is within a $30 budget and may be cheaper with discounts and offers. For the parts, I looked towards JLC3DP, which is good because they have a wide range of materials and there is not minimum spend. For the other parts I found good, cheap ones on AliExpress.
 
 <img width="878" height="339" alt="image" src="https://github.com/user-attachments/assets/f2b3d8b7-f77b-472a-b9ea-8c20a3d8c810" />
+
+
+*Please note that this is an independent project and is not affiliated with, sponsored by, or endorsed by Five Create Ltd (the creators of MetMo)
