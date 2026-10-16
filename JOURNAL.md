@@ -83,6 +83,6 @@ I made sure I had did everything on the checklist and completed my GitHub reposi
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/8709c8717000259424658766bf101212073b858a5b38ab79e0ef53f84d8f9582.png)
 
 ## Extras
-I did a BOM which totalled to just under the $30 funding. With this funding I hope to create my piston fidget.
+I did a BOM which totalled to just under the $30 funding. For the parts, I looked towards JLC3DP, which is good because they have a wide range of materials and there is not minimum spend. For the other parts I found good, cheap ones on AliExpress. With this funding I hope to create my piston fidget.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/c1dc14e1256ba7f60f94d3b642947ba19c92238ce52be100e3fd573c4e790643.png)
