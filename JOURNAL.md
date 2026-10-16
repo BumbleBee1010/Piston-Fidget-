@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 8h | 4 |
+| Week 2 | Tier 1 | 8.5h | 4 |
 
 ## Contents
 
@@ -61,10 +61,10 @@ I finally managed to do it and do it in this nice wavy pattern. I also added som
 
 ### 2026-10-15 – # Finished 3D model
 
-**1.5h**
+**2h**
 
 # Finished 3D model
-I finished my piston fidget 3d model. This includes all the fillets, tolerances and overall shape and size. I am happy and pleased with what I have done.
+I finished my piston fidget 3d model. This includes all the fillets, tolerances and overall shape and size.  I reviewed my entire model and made sure everything was correct (tolerances, measurements, ect.)and redid some bits. I am happy and pleased with what I have done.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/81bcae2b3ea031c90c3cea659df60476b150dd310c4e5131a6b36b0e7f9c4169.png)
 
