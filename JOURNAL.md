@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 9.75h | 4 |
+| Week 2 | Tier 1 | 10.25h | 4 |
 
 ## Contents
 
@@ -80,7 +80,7 @@ I will have to find pieces/ parts of my design and do a BOM next to make sure I 
 
 ### 2026-10-16 – # Ready to SUBMIT!
 
-**2h**
+**2.5h**
 
 # Ready to SUBMIT!
 I made sure I had did everything on the checklist and completed my GitHub repository and the project description in the README.
@@ -91,3 +91,8 @@ I made sure I had did everything on the checklist and completed my GitHub reposi
 I did a BOM which totalled to just under the $30 funding. For the parts, I looked towards JLC3DP, which is good because they have a wide range of materials and there is not minimum spend. For the other parts I found good, cheap ones on AliExpress. With this funding I hope to create my piston fidget.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/c1dc14e1256ba7f60f94d3b642947ba19c92238ce52be100e3fd573c4e790643.png)
+
+## Github repo
+I tidied up my GitHub repository finishing the readme.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/daa805a6a9b7c8317d146807b2d45237e3407d8b2ef9497efac63ea512632fc5.png)
