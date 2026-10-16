@@ -24,7 +24,8 @@ When I did decide to do the texturing I encountered multiple problems, especiall
 ## BOM
 The project is relatively simple, requiring the 3d printed enclosure, 6802zz bearings and a 12mm metal rod (> 77.5mm). It is within a $30 budget and may be cheaper with discounts and offers. For the parts, I looked towards JLC3DP, which is good because they have a wide range of materials and there is not minimum spend. For the other parts I found good, cheap ones on AliExpress.
 
-<img width="878" height="339" alt="image" src="https://github.com/user-attachments/assets/f2b3d8b7-f77b-472a-b9ea-8c20a3d8c810" />
+<img width="965" height="467" alt="image" src="https://github.com/user-attachments/assets/522f0ebe-fcff-497a-b52f-dd55da858a41" />
+
 
 
 *Please note that this is an independent project and is not affiliated with, sponsored by, or endorsed by Five Create Ltd (the creators of MetMo), it was just mentioned in a positive way.
