@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 8.75h | 4 |
+| Week 2 | Tier 1 | 9.25h | 4 |
 
 ## Contents
 
@@ -75,7 +75,7 @@ I will have to find pieces/ parts of my design and do a BOM next to make sure I 
 
 ### 2026-10-16 – # Ready to SUBMIT!
 
-**1.5h**
+**2h**
 
 # Ready to SUBMIT!
 I made sure I had did everything on the checklist and completed my GitHub repository and the project description in the README.
