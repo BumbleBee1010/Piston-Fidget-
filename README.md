@@ -29,5 +29,4 @@ The project is relatively simple, requiring the 3d printed enclosure, 6802zz bea
 | [12mm chrome plated metal rod](https://www.aliexpress.com/item/1005001628031225.html?spm=a2g0o.productlist.main.2.74ed475082kjo4&algo_pvid=b7005a84-c0d3-4d30-bf25-e819b2e05f00&a) | 1 | AliExpress | $6.24 | $6.24 |
 |  [6802ZZ  bearing](https://www.aliexpress.com/item/1005004196304077.html?spm=a2g0o.productlist.main.7.672a2f1eIWC4fX&algo_pvid=0efda123-5575-4d4) | 1 | AliExpress | $3.53 | $3.53 |
 | [Resin printed enclosure](https://jlc3dp.com) | 1 | JLC3DP | $12.12 | $12.12 |
-| Estimated total shipping | 1 | — | — | $6.17 | Total | - | - | - |$28.06
-|
+| Estimated total shipping | 1 | — | — | $6.17 | 
