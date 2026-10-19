@@ -22,7 +22,7 @@ When I did decide to do the texturing I encountered multiple problems, especiall
 <img width="840" height="50" alt="image" src="https://github.com/user-attachments/assets/4543be9b-6be7-4c66-857a-26e1b9d14b26" />
 
 ## BOM
-The project is relatively simple, requiring the 3d printed enclosure, 6802zz bearings and a 12mm metal rod (> 77.5mm). It is within a $30 budget and may be cheaper with discounts and offers. For the parts, I looked towards JLC3DP, which is good because they have a wide range of materials and there is not minimum spend. For the other parts I found good, cheap ones on AliExpress.
+The project is relatively simple, requiring the 3d printed enclosure, 6802zz bearings and a 12mm metal rod (> 77.5mm). It is within a $30 budget and may be cheaper with discounts and offers. For the parts, I looked towards JLC3DP, which is good because they have a wide range of materials and there is not minimum spend. For the other parts I found good, cheap ones on AliExpress. To make 2 fidgets requires $28.06 in total.
 
 | Item | Qty | Supplier | Cost/item | Total Cost |
 | :--- | :---: | :--- | :---: | :---: |
